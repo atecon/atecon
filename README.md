@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I Artur
 
-<!--
-**atecon/atecon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an economist and data scientist who loves to play around with time-series like data. I am also passionate about contributing 💻 open-source packages for my favourite open-source software package named 🌟Gretl🌟 (http://gretl.sourceforge.net/).
 
-Here are some ideas to get you started:
+🔭 I’m currently working on various gretl packages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I also started to learn golang recently.
+
+## Find me around the web 🌎:
+- Check out my academic publications: https://ideas.repec.org/f/pta322.html
+
+[//]: # "https://github.com/anuraghazra/github-readme-stats"
+[![Artur's github stats](https://github-readme-stats.vercel.app/api?username=atecon&count_private=true&show_icons=true&theme=merko)](https://github.com/atecon/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atecon&hide=Tex,Makefile)](https://github.com/atecon/github-readme-stats)
