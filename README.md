@@ -13,3 +13,8 @@ I'm an economist and data scientist who loves to play around with time-series li
 [![Artur's github stats](https://github-readme-stats.vercel.app/api?username=atecon&count_private=true&show_icons=true&theme=merko)](https://github.com/atecon/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atecon&hide=Tex,Makefile)](https://github.com/atecon/github-readme-stats)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/atecon/count.svg" />
+</p>
