@@ -1,4 +1,4 @@
-# Hi, I Artur
+# Hi, I am Artur
 
 I'm an economist and data scientist who loves to play around with time-series like data. I am also passionate about contributing 💻 open-source packages for my favourite open-source software package named 🌟Gretl🌟 (http://gretl.sourceforge.net/).
 
