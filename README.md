@@ -1,10 +1,12 @@
-# Hi, I am Artur
+# Hi, I am Artur :wave:
 
-I'm an economist and data scientist who loves to play around with time-series like data. I am also passionate about contributing 💻 open-source packages for my favourite open-source software package named 🌟Gretl🌟 (http://gretl.sourceforge.net/).
+I'm an economist and data scientist who loves to play around with time-series like data :chart_with_upwards_trend:. I am also passionate about contributing 💻 open-source packages for my favourite open-source software package named 🌟Gretl🌟 (http://gretl.sourceforge.net/).
 
 🔭 I’m currently working on various gretl packages.
 
-🌱 I also started to learn golang recently.
+:beginner: I also started to learn golang recently.
+
+Check out my COVID-19 :mask: forecasting hobby project: https://github.com/atecon/covid_19_forecast
 
 ## Find me around the web 🌎:
 - Check out my academic publications: https://ideas.repec.org/f/pta322.html
