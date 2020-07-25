@@ -14,7 +14,7 @@ I'm an economist and data scientist who loves to play around with time-series li
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atecon&hide=Tex,Makefile)](https://github.com/atecon/github-readme-stats)
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/atecon/count.svg" />
 </p>
