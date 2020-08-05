@@ -5,7 +5,7 @@
 
 I'm an economist and data scientist who loves to play around with time-series like data :chart_with_upwards_trend:. I am also passionate about contributing 💻 open-source packages for my favourite open-source software package named 🌟Gretl🌟 (http://gretl.sourceforge.net/).
 
-🔭 I’m currently working on various gretl packages.
+🔭 I’m currently working on various gretl packages -- just checkout my repo.
 
 :beginner: I also started to learn golang recently.
 
