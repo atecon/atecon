@@ -1,5 +1,8 @@
 # Hi, I am Artur :wave:
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/atecon1?label=Follow&style=social)](https://twitter.com/atecon1)
+[![Linkedin Badge](https://img.shields.io/badge/-artur-tarassow-39690416-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-tarassow-39690416/)](https://www.linkedin.com/in/artur-tarassow-39690416/) 
+
 I'm an economist and data scientist who loves to play around with time-series like data :chart_with_upwards_trend:. I am also passionate about contributing 💻 open-source packages for my favourite open-source software package named 🌟Gretl🌟 (http://gretl.sourceforge.net/).
 
 🔭 I’m currently working on various gretl packages.
@@ -20,3 +23,5 @@ Check out my COVID-19 :mask: forecasting hobby project: https://github.com/ateco
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/atecon/count.svg" />
 </p>
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fatecon%2Fatecon)
