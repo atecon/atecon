@@ -8,6 +8,9 @@ I'm an economist and data scientist who loves to play around with time-series li
 :mask: Check out my COVID-19 forecasting hobby project: https://github.com/atecon/covid_19_forecast
 
 ## Open-source projects 🔭
+
+In case you use gretl and the Sublime editor, here is my official **Hansl-Gretl-Language** package: https://packagecontrol.io/packages/Hansl-Gretl-Language
+
 I am author of various official user-contributed packages for gretl. Here is a list:
 
 - **ADMBP**: ARDL Dynamic Multiplier Bootstrap Package (https://github.com/atecon/ADMPB)
