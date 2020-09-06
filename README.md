@@ -20,6 +20,7 @@ I am author of various official user-contributed packages for gretl. Here is a l
 - **CategoryEncoders**: Encoder based on categorical variables (https://github.com/atecon/CategoryEncoders)
 - **cointARDL**: Bootstrap single-equation cointegration tests (https://github.com/atecon/cointARDL)
 - **CvDataSplitter**: Compile cross-validation datasets (https://github.com/atecon/cv_data_splitter)
+- **fsboost**: Implementation of the forward-stagewise shrinkage & selection estimator (https://github.com/atecon/fsboost/)
 - **gregory_hansen**: Residual-based tests for cointegration in models with regime shifts (https://github.com/atecon/gregory_hansen)
 - **holidays**: Retrieve list of holiday series (https://github.com/atecon/holidays)
 - **latextab**: Write matrix as Latex table (https://github.com/atecon/latextab)
