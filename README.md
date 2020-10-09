@@ -17,6 +17,7 @@ I am author of various official user-contributed packages for gretl. Here is a l
 - **assertion**: Assert functions for verifying expectations and values in gretl tests (https://github.com/atecon/assertion)
 - **auto_arima**: Return best ARIMA model according to information criteria value (https://github.com/atecon/auto_arima)
 - **BMST**: Logit and Probit model specifcation tests package (https://github.com/atecon/bmst)
+- **calendar_utils**: Collection of useful date time related tools (https://github.com/atecon/calendar_utils)
 - **CategoryEncoders**: Encoder based on categorical variables (https://github.com/atecon/CategoryEncoders)
 - **cointARDL**: Bootstrap single-equation cointegration tests (https://github.com/atecon/cointARDL)
 - **CvDataSplitter**: Compile cross-validation datasets (https://github.com/atecon/cv_data_splitter)
