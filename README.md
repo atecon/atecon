@@ -27,6 +27,7 @@ I am author of various official user-contributed packages for gretl. Here is a l
 - **latextab**: Write matrix as Latex table (https://github.com/atecon/latextab)
 - **mat2data**: Write matrix as dataset to some file (e.g. csv, gdt) (https://github.com/atecon/mat2data)
 - **memusage**: Compute memory usage of gretl objects (https://github.com/atecon/memusage)
+- **metadata**: Package for retrieving metadata from gdt-files (https://github.com/atecon/metadata)
 - **multiplot**: Combine multiple plots to a single graph (https://github.com/atecon/multiplot)
 - **naiveFC**: Simple forecasting methods (https://github.com/atecon/naivefc)
 - **PairPlot**: Scatterplot matrix with factor separation (https://github.com/atecon/pairplot)
