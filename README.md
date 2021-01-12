@@ -1,11 +1,11 @@
-# Hi, I am Artur :wave:
+# Hi, [I am Artur](https://atecon.github.io/about/) :wave:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/atecon1?label=Follow&style=social)](https://twitter.com/atecon1)
 [![Linkedin Badge](https://img.shields.io/badge/-artur-tarassow-39690416-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-tarassow-39690416/)](https://www.linkedin.com/in/artur-tarassow-39690416/) 
 
 I'm an economist and data scientist who loves to play around with time-series like data :chart_with_upwards_trend:. I am also passionate about contributing 💻 open-source packages for my favourite open-source software package named 🌟Gretl🌟 (http://gretl.sourceforge.net/).
 
-:mask: Check out my COVID-19 forecasting hobby project: https://github.com/atecon/covid_19_forecast
+:mask: Check out my (archived) COVID-19 forecasting hobby project: https://github.com/atecon/covid_19_forecast
 
 ## Open-source projects 🔭
 
@@ -46,8 +46,6 @@ I am author of various official user-contributed packages for gretl. Here is a l
 - **var_chow**: Chow test for VAR models (bootstrap version) (http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/var_chow.gfn)
 - **FEP**: Forecast Evaluation Package (https://github.com/atecon/fep)
 
-## Find me around the web 🌎:
-- Check out my academic publications: https://ideas.repec.org/f/pta322.html
 
 [//]: # "https://github.com/anuraghazra/github-readme-stats"
 [![Artur's github stats](https://github-readme-stats.vercel.app/api?username=atecon&count_private=true&show_icons=true&theme=merko)](https://github.com/atecon/github-readme-stats)
