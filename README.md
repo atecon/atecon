@@ -32,8 +32,6 @@ I am author of various official user-contributed packages for gretl. Here is a l
 - **naiveFC**: Simple forecasting methods (https://github.com/atecon/naivefc)
 - **PairPlot**: Scatterplot matrix with factor separation (https://github.com/atecon/pairplot)
 - **pkgchecker**: Fin unused variables and functions, and compile a 1-level dependency graph (https://github.com/atecon/pkgchecker)
-- **plot_scatter_label**: Add labels to scatter plot (http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/plot_scatter_label.gfn)
-- **plot_ts_y2axis**: Single scatter plot with 2 y-axis + with lines (http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/plot_ts_y2axis.gfn)
 - **pmbb**: Moving Blocks Bootstrap (MBB) for linear panels (http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/pmbb.gfn)
 - **ridge**: Ridge regression (https://github.com/atecon/ridge)
 - **RollingStats**: Rolling Time-Series Statistics (https://github.com/atecon/Rolling_Stats)
