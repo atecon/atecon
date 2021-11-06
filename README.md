@@ -25,6 +25,7 @@ I am author of various official user-contributed packages for gretl. Here is a l
 - **fsboost**: Implementation of the forward-stagewise shrinkage & selection estimator (https://github.com/atecon/fsboost/)
 - **gregory_hansen**: Residual-based tests for cointegration in models with regime shifts (https://github.com/atecon/gregory_hansen)
 - **holidays**: Retrieve list of holiday series (https://github.com/atecon/holidays)
+- **kmeans**: K-means unsupervised learning algorithm (https://github.com/atecon/kmeans)
 - **latextab**: Write matrix as Latex table (https://github.com/atecon/latextab)
 - **logging**: Record the history and progress of a computation as a log of events (https://github.com/atecon/logging)
 - **mat2data**: Write matrix as dataset to some file (e.g. csv, gdt) (https://github.com/atecon/mat2data)
