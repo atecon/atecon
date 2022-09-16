@@ -1,6 +1,5 @@
 # Hi, [I am Artur](https://atecon.github.io/about/) :wave:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/atecon1?label=Follow&style=social)](https://twitter.com/atecon1)
 [![Linkedin Badge](https://img.shields.io/badge/-artur-tarassow-39690416-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-tarassow-39690416/)](https://www.linkedin.com/in/artur-tarassow-39690416/) 
 
 I'm an economist and data scientist who loves to play around with time-series like data :chart_with_upwards_trend:. I am also passionate about contributing 💻 open-source packages for my favourite open-source software package named 🌟Gretl🌟 (http://gretl.sourceforge.net/).
@@ -37,7 +36,7 @@ I am author of various official user-contributed packages for gretl. Here is a l
 - **PanelTools**: Collection of tools for handling panel data (https://github.com/atecon/PanelTools)
 - **PairPlot**: Scatterplot matrix with factor separation (https://github.com/atecon/pairplot)
 - **pkgchecker**: Fin unused variables and functions, and compile a 1-level dependency graph (https://github.com/atecon/pkgchecker)
-- **pmbb**: Moving Blocks Bootstrap (MBB) for linear panels (http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/pmbb.gfn)
+- **pmbb**: Moving Blocks Bootstrap (MBB) for linear panels (https://github.com/atecon/pmbb)
 - **ridge**: Ridge regression (https://github.com/atecon/ridge)
 - **RollingStats**: Rolling Time-Series Statistics (https://github.com/atecon/Rolling_Stats)
 - **SB**: Stationary bootstrap resampling of time series (http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/SB.gfn)
@@ -46,7 +45,7 @@ I am author of various official user-contributed packages for gretl. Here is a l
 - **string_utils**: Helper functions for string operations (https://github.com/atecon/string_utils)
 - **Threshold_Panel**: Panel threshold model (Bruce Hansen, JoE 1999) (https://github.com/atecon/Threshold_Panel)
 - **VARrec**: Recursive computation of VAR model coefficient estimates (https://github.com/atecon/VARrec)
-- **var_chow**: Chow test for VAR models (bootstrap version) (http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/var_chow.gfn)
+- **var_chow**: Chow test for VAR models (bootstrap version) (https://github.com/atecon/var_chow)
 - **FEP**: Forecast Evaluation Package (https://github.com/atecon/fep)
 
 
