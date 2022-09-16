@@ -4,13 +4,15 @@
 
 I'm an economist and data scientist who loves to play around with time-series like data :chart_with_upwards_trend:. I am also passionate about contributing 💻 open-source packages for my favourite open-source software package named 🌟Gretl🌟 (http://gretl.sourceforge.net/).
 
-:mask: Check out my (archived) COVID-19 forecasting hobby project: https://github.com/atecon/covid_19_forecast
+<!--:mask: Check out my (archived) COVID-19 forecasting hobby project: https://github.com/atecon/covid_19_forecast -->
 
 ## Open-source projects 🔭
 
-In case you use gretl and the Sublime editor, here is my official **Hansl-Gretl-Language** package: https://packagecontrol.io/packages/Hansl-Gretl-Language
+In case you use gretl and the Sublime editor, here is my official **Hansl-Gretl-Language** package:
 
-I am author of various official user-contributed packages for gretl. Here is a list:
+https://packagecontrol.io/packages/Hansl-Gretl-Language
+
+I am (co-)author of various official user-contributed packages for gretl. Here a list:
 
 - **ADMBP**: ARDL Dynamic Multiplier Bootstrap Package (https://github.com/atecon/ADMPB)
 - **assertion**: Assert functions for verifying expectations and values in gretl tests (https://github.com/atecon/assertion)
