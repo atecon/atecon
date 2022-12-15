@@ -45,6 +45,7 @@ I am (co-)author of various official user-contributed packages for gretl. Here a
 - **season_plot**: Plot seasonal time-series components (https://github.com/atecon/season_plot)
 - **stack_data**: Stack list of series (https://github.com/atecon/stack)
 - **string_utils**: Helper functions for string operations (https://github.com/atecon/string_utils)
+- **StrucTiSM**:  Estimating and forecasting using structural time-series models (https://github.com/atecon/StrucTiSM)
 - **Threshold_Panel**: Panel threshold model (Bruce Hansen, JoE 1999) (https://github.com/atecon/Threshold_Panel)
 - **VARrec**: Recursive computation of VAR model coefficient estimates (https://github.com/atecon/VARrec)
 - **var_chow**: Chow test for VAR models (bootstrap version) (https://github.com/atecon/var_chow)
