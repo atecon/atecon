@@ -1,6 +1,6 @@
 # Hi, [I am Artur](https://atecon.github.io/about/) :wave:
 
-I'm an economist and data scientist who loves to play around with time-series like data :chart_with_upwards_trend:. I am also passionate about contributing 💻 open-source packages for my favourite open-source software package named 🌟Gretl🌟 (http://gretl.sourceforge.net/).
+I'm an economist, researcher and teacher who loves to play around with data :chart_with_upwards_trend:. I am also passionate about contributing 💻 open-source packages for my favourite open-source software package named 🌟Gretl🌟 (http://gretl.sourceforge.net/).
 
 <!--:mask: Check out my (archived) COVID-19 forecasting hobby project: https://github.com/atecon/covid_19_forecast -->
 
