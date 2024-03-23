@@ -6,10 +6,18 @@ I'm an economist, researcher and teacher who loves to play around with data :cha
 
 ## Open-source projects 🔭
 
+### Sublime editor extension for Gretl and Hansl
 In case you use gretl and the Sublime editor, here is my official **Hansl-Gretl-Language** package:
 
 https://packagecontrol.io/packages/Hansl-Gretl-Language
 
+### Gretl cheat-sheet
+I've written a Gretl cheat-sheet on basic data handling, plotting etc. which is available [here](https://github.com/gretl-project/gretl_cheatsheet).
+
+### Gretl tutorial
+Here you find [tutorial(s) on how to use Gretl](https://github.com/atecon/gretl_tutorials).
+
+### Gretl packages I've co-authored
 I am (co-)author of various official user-contributed packages for gretl. Here a list:
 
 - **ADMBP**: ARDL Dynamic Multiplier Bootstrap Package (https://github.com/atecon/ADMPB)
