@@ -35,6 +35,7 @@ I am (co-)author of various official user-contributed packages for gretl. Here a
 - **naiveFC**: Simple forecasting methods (https://github.com/atecon/naivefc)
 - **PanelTools**: Collection of tools for handling panel data (https://github.com/atecon/PanelTools)
 - **PairPlot**: Scatterplot matrix with factor separation (https://github.com/atecon/pairplot)
+- **pcaTools**: Conduct (sparse) PCA analysis; scree-plot and bi-plot support (https://github.com/atecon/pcaTools)
 - **pkgchecker**: Fin unused variables and functions, and compile a 1-level dependency graph (https://github.com/atecon/pkgchecker)
 - **pmbb**: Moving Blocks Bootstrap (MBB) for linear panels (https://github.com/atecon/pmbb)
 - **ridge**: Ridge regression (https://github.com/atecon/ridge)
