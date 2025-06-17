@@ -30,7 +30,7 @@ I am (co-)author of various official user-contributed packages for gretl. Here a
 - **cointARDL**: Bootstrap single-equation cointegration tests (https://github.com/atecon/cointARDL)
 - **CvDataSplitter**: Compile cross-validation datasets (https://github.com/atecon/cv_data_splitter)
 - **distances**: Compute pairwise metrics and affinities using gretl. (https://github.com/atecon/distances)
-- **fsboost**: Create factorized kernel-density plots (https://github.com/atecon/fdensity/)
+- **fsdensity**: Create factorized kernel-density plots (https://github.com/atecon/fdensity/)
 - **fsboost**: Implementation of the forward-stagewise shrinkage & selection estimator (https://github.com/atecon/fsboost/)
 - **gregory_hansen**: Residual-based tests for cointegration in models with regime shifts (https://github.com/atecon/gregory_hansen)
 - **holidays**: Retrieve list of holiday series (https://github.com/atecon/holidays)
